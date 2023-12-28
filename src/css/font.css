@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Goutham Rounded;
+    src: url('../fonts/Gotham\ Rounded\ Bold.otf') format('otf');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: Goutham Rounded;
+    src: url('../fonts/Gotham\ Rounded\ Light.otf') format('otf'),
+         url('../fonts/Gotham\ Rounded\ Light\ Italic.otf') format('otf');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: Goutham Rounded;
+    src: url('../fonts/Gotham\ Rounded\ Medium.otf') format('otf'),
+         url('../fonts/Gotham\ Rounded\ Medium\ Italic.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
